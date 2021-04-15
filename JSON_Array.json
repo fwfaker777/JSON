@@ -1,0 +1,43 @@
+
+[{
+    "firstname": "Kevin",
+    "height": 180,
+    "email": "kevin@gmail.com",
+    "city": {
+        "通訊地址": "台北",
+        "戶籍地址": "桃園"
+    },
+    "phone": {
+        "市話": "02-29881055",
+        "行動電話": "0933-852177"
+    },
+    "cars":["BNW","Nissan GT-R","Audi"]
+},
+{
+    "firstname": "Tom",
+    "height": 179,
+    "email": "Tom@gmail.com",
+    "city": {
+        "通訊地址": "竹南",
+        "戶籍地址": "彰化"
+    },
+    "phone": {
+        "市話": "02-55012988",
+        "行動電話": "0910-772177"
+    },
+    "cars":["BNW","Nissan GT-R","Audi"]
+},
+{
+    "firstname": "Jerry",
+    "height": 180,
+    "email": "Jerry@gmail.com",
+    "city": {
+        "通訊地址": "台中",
+        "戶籍地址": "花蓮"
+    },
+    "phone": {
+        "市話": "02-88246486",
+        "行動電話": "0933-1123187"
+    },
+    "cars":["BNW","Nissan GT-R","Audi"]
+}]
